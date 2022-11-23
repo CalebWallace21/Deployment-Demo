@@ -4,7 +4,7 @@ const clickHandler = () => alert('The cat name is: Rascal')
 
 btn.addEventListener('click', clickHandler)
 
-
+//test
 const btn2 = document.querySelector('#button2')
 
 const getCat = () => {
